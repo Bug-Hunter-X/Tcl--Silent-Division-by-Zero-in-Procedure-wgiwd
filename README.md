@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Tcl related to unhandled division by zero within a procedure. The `badproc` procedure will crash the interpreter without providing a clear error message under certain conditions.  The solution demonstrates how to handle such cases and prevent unexpected crashes.
